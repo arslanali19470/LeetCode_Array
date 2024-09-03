@@ -1,10 +1,12 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        nums.sort()
-        for num in range(1,len(nums)):
-            if nums[num] == nums[num-1]:
+        Mainobj={}
+        for num in nums:
+            if num in Mainobj:
                 return True
-        return False 
+            Mainobj[num]=1
+        return False
+       
       
 
 
