@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arslanali19470/LeetCode_Array/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Array/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arslanali19470/LeetCode_Array/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/arslanali19470/LeetCode_Array/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/arslanali19470/LeetCode_Array/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Array/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arslanali19470/LeetCode_Array/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/arslanali19470/LeetCode_Array/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/arslanali19470/LeetCode_Array/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arslanali19470/LeetCode_Array/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/arslanali19470/LeetCode_Array/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
