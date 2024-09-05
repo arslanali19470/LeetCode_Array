@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arslanali19470/LeetCode_Array/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/arslanali19470/LeetCode_Array/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/arslanali19470/LeetCode_Array/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
