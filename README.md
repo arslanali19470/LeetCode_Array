@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/arslanali19470/LeetCode_Array/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/arslanali19470/LeetCode_Array/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arslanali19470/LeetCode_Array/tree/master/0283-move-zeroes) |
+| [2155-find-missing-observations](https://github.com/arslanali19470/LeetCode_Array/tree/master/2155-find-missing-observations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/arslanali19470/LeetCode_Array/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/arslanali19470/LeetCode_Array/tree/master/0268-missing-number) |
+| [2155-find-missing-observations](https://github.com/arslanali19470/LeetCode_Array/tree/master/2155-find-missing-observations) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arslanali19470/LeetCode_Array/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [2155-find-missing-observations](https://github.com/arslanali19470/LeetCode_Array/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
